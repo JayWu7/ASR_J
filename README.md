@@ -14,3 +14,7 @@ Decide to construct a Chinese speech recognition tool at first, using kaldi + DN
 
 #day3:
 deploy the develop environment
+
+
+#day4
+Did nothing today. -.-
