@@ -18,3 +18,8 @@ deploy the develop environment
 
 #day4
 Did nothing today. -.-
+
+
+
+#day5
+Start learning speech processing
