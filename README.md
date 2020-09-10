@@ -23,3 +23,6 @@ Did nothing today. -.-
 
 #day5
 Start learning speech processing
+
+#day6
+Find an excellent GPU computer room in school
