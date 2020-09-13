@@ -26,3 +26,7 @@ Start learning speech processing
 
 #day6
 Find an excellent GPU computer room in school
+
+
+#dat7
+Learn Fourier Transform and short time Fourier Transform
