@@ -30,3 +30,7 @@ Find an excellent GPU computer room in school
 
 #dat7
 Learn Fourier Transform and short time Fourier Transform
+
+
+#day8
+Start to create the dataset
