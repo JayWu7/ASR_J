@@ -34,3 +34,6 @@ Learn Fourier Transform and short time Fourier Transform
 
 #day8
 Start to create the dataset
+
+#day9
+read LAS paper
