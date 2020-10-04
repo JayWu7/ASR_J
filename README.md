@@ -37,3 +37,6 @@ Start to create the dataset
 
 #day9
 read LAS paper
+
+#day10
+A note to notify you work hard
