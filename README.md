@@ -43,3 +43,6 @@ A note to notify you work hard
 
 #day11
 Good night
+
+#day12
+Wanna push this repository soon.
